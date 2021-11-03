@@ -1,0 +1,7 @@
+.imgContainer {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: block;
+    margin: 20px auto !important;
+}
